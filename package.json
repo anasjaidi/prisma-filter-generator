@@ -1,0 +1,25 @@
+{
+  "name": "prisma-filter-generator",
+  "version": "1.0.0",
+  "description": "Prisma Filters is a lightweight npm package that provides a simple and intuitive way to generate Prisma filters based on user input. With Prisma Filters, you can easily create filters that allow your users to query data from your database based on specific criteria. This package uses the Prisma ORM to build and execute queries, and supports a variety of filtering options including gte, lte, lt, and gt. With Prisma Filters, you can save time and increase the efficiency of your development process by offloading the burden of query building to a simple and easy-to-use package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anasjaidi/prisma-filter-generator.git"
+  },
+  "keywords": [
+    "prisma",
+    "filter",
+    "query",
+    "node"
+  ],
+  "author": "Anas Jaidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anasjaidi/prisma-filter-generator/issues"
+  },
+  "homepage": "https://github.com/Anasjaidi/prisma-filter-generator#readme"
+}
